@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+%26+Backend+Engineering;Full-Stack+Application+Development;RAG+%7C+LLMs+%7C+Data+%26+Observability;Learning%2C+building%2C+testing%2C+improving+%F0%9F%9A%80" alt="Developer focus animation" />
 
   <p>
-    <a href="https://github.com/Ganesh2325"><img src="https://komarev.com/ghpvc/?username=Ganesh2325&label=PROFILE%20VIEWS&color=0891b2&style=for-the-badge" alt="Profile views" /></a>
     <a href="https://github.com/Ganesh2325?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
     <a href="https://leetcode.com/u/Ganesh2307/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   </p>
@@ -14,7 +13,7 @@
 
 👋 About
 I'm Ganesh, interested in building practical software across AI, backend systems, full-stack development, data, and developer tooling. I enjoy learning by building, testing, measuring, and improving.
-🧰 Skills & Technologies
+Skills & Technologies
 Languages
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts,html,css&perline=8" alt="Java, Python, C++, C, JavaScript, TypeScript, HTML5 and CSS3" />
@@ -125,5 +124,5 @@ DevOps, Testing & Observability
   <a href="https://leetcode.com/u/Ganesh2307/"><img src="https://img.shields.io/badge/LeetCode-Ganesh2307-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
   <br />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,50:312E81,100:0F172A&height=100&section=footer" alt="Decorative footer banner" width="100%" />
-  <b>Thanks for visiting · Keep building. Keep learning. 🚀</b>
+  <b>Thanks for visiting · Keep building. Keep learning. </b>
 </div>
