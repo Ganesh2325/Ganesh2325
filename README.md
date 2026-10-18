@@ -2,9 +2,6 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:0891B2&height=190&section=header&text=Ganesh&fontSize=62&fontColor=FFFFFF&fontAlignY=36&desc=AI%20%7C%20Backend%20%7C%20Full-Stack%20Engineering&descAlignY=58&descSize=18" alt="Ganesh profile banner" width="100%" />
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=850&color=38BDF8&center=true&vCenter=true&width=760&lines=AI+%26+Backend+Engineering;Full-Stack+Application+Development;RAG+%7C+LLMs+%7C+Data+%26+Observability;Learning%2C+building%2C+testing%2C+improving+%F0%9F%9A%80" alt="Developer focus animation" />
-
   <p>
     <a href="https://github.com/Ganesh2325?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
     <a href="https://leetcode.com/u/Ganesh2307/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" /></a>
